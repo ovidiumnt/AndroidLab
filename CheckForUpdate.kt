@@ -3,7 +3,7 @@ import com.google.android.play.core.appupdate.AppUpdateManager
 ...
 
 // ATENTIE! 
-// Acest lucru merge DOAR daca distribuiti aplicatia pe Google Play Store ca Android App Bundle. 
+// Acest lucru merge DOAR daca distribuiti aplicatia pe Google Play Store ca Android App Bundle
 // APK-urile nu suporta aceasta facilitate
 
 
